@@ -1,0 +1,1035 @@
+id,fiscal_year,function_,program,department,Type,Type_Detail,approved_amount,fund_type,exFund,ExpenseType,ObjectId
+0,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,89008,General,General,Expenditures,17
+1,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,16000,Special Revenue,Special Revenue,Expenditures,29
+2,2019,Culture and Recreation,,Parks and Recreation,Building Maintenance,Building Repair Materials,230,General,General,Expenditures,47
+3,2019,Culture and Recreation,,Parks and Recreation,Rentals,Laundry & Uniform Rental,1165,General,General,Expenditures,65
+4,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,15728,General,General,Expenditures,66
+5,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,4591,General,General,Expenditures,80
+6,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,1377,General,General,Expenditures,89
+7,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,4040,General,General,Expenditures,108
+8,2019,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,2111,General,General,Expenditures,117
+9,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Boards & Commissions,138,General,General,Expenditures,149
+10,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,839777,General,General,Expenditures,170
+11,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Permits,2754,General,General,Expenditures,171
+12,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Kitchen Utensils,1041,General,General,Expenditures,215
+13,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,2225,General,General,Expenditures,252
+14,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,10000,Special Revenue,Special Revenue,Expenditures,265
+15,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,522585,General,General,Expenditures,267
+16,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Artistic Services,1044,General,General,Expenditures,285
+17,2019,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,1377,General,General,Expenditures,304
+18,2019,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,51060,Special Revenue,Special Revenue,Expenditures,309
+19,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,80000,General,General,Expenditures,317
+20,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Guest Speaker Fees,3673,General,General,Expenditures,343
+21,2019,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,100,Special Revenue,Special Revenue,Expenditures,350
+22,2019,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,898000,Special Revenue,Special Revenue,Expenditures,352
+23,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Photo & Duplicating Supplies,130,General,General,Expenditures,390
+24,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,125215,General,General,Expenditures,404
+25,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Leagues & Tournaments,5000,Special Revenue,Special Revenue,Expenditures,407
+26,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Entertainment,126,General,General,Expenditures,420
+27,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,2060,General,General,Expenditures,435
+28,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,1672469,General,General,Expenditures,449
+29,2019,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,48138,General,General,Expenditures,454
+30,2019,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,2500,Special Revenue,Special Revenue,Expenditures,479
+31,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Medical Services,663,Special Revenue,Special Revenue,Expenditures,481
+32,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,100,Special Revenue,Special Revenue,Expenditures,484
+33,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,10534,General,General,Expenditures,489
+34,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,790,Special Revenue,Special Revenue,Expenditures,503
+35,2019,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,900,General,General,Expenditures,511
+36,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,701917,General,General,Expenditures,569
+37,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Costumes,276,General,General,Expenditures,576
+38,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Decorations,2113,General,General,Expenditures,578
+39,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,1946,Special Revenue,Special Revenue,Expenditures,584
+40,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,2000,General,General,Expenditures,585
+41,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,15501,General,General,Expenditures,592
+42,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Permit Fees,6027,General,General,Expenditures,667
+43,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Custodial Services,230,General,General,Expenditures,673
+44,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Meals & Entertainment,1837,General,General,Expenditures,707
+45,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,7970,General,General,Expenditures,712
+46,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Sports Officials,30879,General,General,Expenditures,714
+47,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Leagues & Tournaments,47793,General,General,Expenditures,727
+48,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,3591,General,General,Expenditures,731
+49,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,124000,Special Revenue,Special Revenue,Expenditures,770
+50,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,276,General,General,Expenditures,796
+51,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Sets/Props,184,General,General,Expenditures,841
+52,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,359522,Special Revenue,Special Revenue,Expenditures,873
+53,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,598,General,General,Expenditures,921
+54,2019,Culture and Recreation,,Parks and Recreation,Rentals,Port-A-Potties,510,Special Revenue,Special Revenue,Expenditures,923
+55,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,7160,Special Revenue,Special Revenue,Expenditures,949
+56,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,2564862,General,General,Expenditures,958
+57,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Guest Speaker Fees,126,General,General,Expenditures,1014
+58,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Landscaping Supplies,321,General,General,Expenditures,1026
+59,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Photo & Duplicating Supplies,644,General,General,Expenditures,1030
+60,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,5300,Special Revenue,Special Revenue,Expenditures,1049
+61,2019,Culture and Recreation,,Parks and Recreation,Rentals,"Rental of Land, Offices",315,General,General,Expenditures,1051
+62,2019,Culture and Recreation,,Parks and Recreation,Building Maintenance,Building Repair Materials,315,General,General,Expenditures,1075
+63,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,300,Special Revenue,Special Revenue,Expenditures,1080
+64,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,430721,Special Revenue,Special Revenue,Expenditures,1088
+65,2019,Welfare,,Parks and Recreation,General Supplies,Groceries,54500,Special Revenue,Special Revenue,Expenditures,1103
+66,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Video Production Services,189,General,General,Expenditures,1104
+67,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,95266,General,General,Expenditures,1134
+68,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Buses/Transportation,5969,General,General,Expenditures,1150
+69,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,459,General,General,Expenditures,1153
+70,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Non-Employee Travel,2296,General,General,Expenditures,1183
+71,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,10000,General,General,Expenditures,1214
+72,2019,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,230,General,General,Expenditures,1223
+73,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Wheel Chairs/Adaptive Appliances,980,General,General,Expenditures,1266
+74,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,570112,General,General,Expenditures,1273
+75,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,29838,General,General,Expenditures,1304
+76,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Water,706,General,General,Expenditures,1334
+77,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Fitness Equipment,4592,General,General,Expenditures,1368
+78,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,83500,General,General,Expenditures,1379
+79,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,3200,Special Revenue,Special Revenue,Expenditures,1390
+80,2019,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,2000,Special Revenue,Special Revenue,Expenditures,1405
+81,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,230,General,General,Expenditures,1408
+82,2019,Culture and Recreation,,Parks and Recreation,Rentals,Rental Of Office Equipment,138,General,General,Expenditures,1417
+83,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,17906,General,General,Expenditures,1420
+84,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,1000,Special Revenue,Special Revenue,Expenditures,1421
+85,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,10000,Special Revenue,Special Revenue,Expenditures,1426
+86,2019,Culture and Recreation,,Parks and Recreation,Building Maintenance,Custodial Supplies,505,General,General,Expenditures,1443
+87,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,90571,General,General,Expenditures,1457
+88,2019,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,49,General,General,Expenditures,1490
+89,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,257,General,General,Expenditures,1530
+90,2019,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,275,General,General,Expenditures,1553
+91,2019,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,4680,General,General,Expenditures,1564
+92,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,50000,General,General,Expenditures,1575
+93,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Buses/Transportation,60108,General,General,Expenditures,1600
+94,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,9250,General,General,Expenditures,1601
+95,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,3490,General,General,Expenditures,1612
+96,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,1000,Special Revenue,Special Revenue,Expenditures,1617
+97,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Contract Services,3550,General,General,Expenditures,1635
+98,2019,Culture and Recreation,,Parks and Recreation,Insurance,Premiums Paid,918,General,General,Expenditures,1681
+99,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,2000,Special Revenue,Special Revenue,Expenditures,1695
+100,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,14253,General,General,Expenditures,1718
+101,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Application Software,4007,General,General,Expenditures,1737
+102,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,2500,Special Revenue,Special Revenue,Expenditures,1747
+103,2019,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,459,General,General,Expenditures,1749
+104,2019,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,65463,Special Revenue,Special Revenue,Expenditures,1760
+105,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,41991,Special Revenue,Special Revenue,Expenditures,1777
+106,2019,Economic Development and Assistance,,Parks and Recreation,Utilities,Telephone - Basic,100,Special Revenue,Special Revenue,Expenditures,1783
+107,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,276,General,General,Expenditures,1789
+108,2019,Culture and Recreation,,Parks and Recreation,Insurance,Insurance & Bonds,47,General,General,Expenditures,1802
+109,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,5878,General,General,Expenditures,1806
+110,2019,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,1573,General,General,Expenditures,1807
+111,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,10000,Special Revenue,Special Revenue,Expenditures,1824
+112,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,2938,General,General,Expenditures,1826
+113,2019,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,1010,General,General,Expenditures,1848
+114,2019,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,455,General,General,Expenditures,1862
+115,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,20057,Special Revenue,Special Revenue,Expenditures,1871
+116,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Professional Certifications,413,General,General,Expenditures,1875
+117,2019,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,3214,General,General,Expenditures,1894
+118,2019,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,459,General,General,Expenditures,1958
+119,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,872,Special Revenue,Special Revenue,Expenditures,1985
+120,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,1440640,General,General,Expenditures,1991
+121,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,1653,General,General,Expenditures,1997
+122,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Permits,286,General,General,Expenditures,2005
+123,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,1000,General,General,Expenditures,2010
+124,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Tables & Chairs,7902,General,General,Expenditures,2032
+125,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,900,General,General,Expenditures,2041
+126,2019,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Equipment,21568,General,General,Expenditures,2043
+127,2019,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,25000,General,General,Expenditures,2047
+128,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,276,General,General,Expenditures,2072
+129,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,17973,General,General,Expenditures,2086
+130,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,300,Special Revenue,Special Revenue,Expenditures,2115
+131,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,99935,General,General,Expenditures,2135
+132,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,2296,General,General,Expenditures,2163
+133,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Community Events - Perishables,1264,General,General,Expenditures,2166
+134,2019,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,3755,Special Revenue,Special Revenue,Expenditures,2186
+135,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,2388,General,General,Expenditures,2187
+136,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Travel,4591,General,General,Expenditures,2221
+137,2019,Economic Development and Assistance,,Parks and Recreation,Professional Services,Other Professional Services,15000,Special Revenue,Special Revenue,Expenditures,2227
+138,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,9137,General,General,Expenditures,2251
+139,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,17000,Special Revenue,Special Revenue,Expenditures,2267
+140,2019,Culture and Recreation,,Parks and Recreation,Building Maintenance,Paint Supplies,155,General,General,Expenditures,2316
+141,2019,Culture and Recreation,,Parks and Recreation,Rentals,Port-A-Potties,493,General,General,Expenditures,2343
+142,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,2152,General,General,Expenditures,2355
+143,2019,Culture and Recreation,,Parks and Recreation,General Supplies,RECTRAC System Supplies,919,General,General,Expenditures,2386
+144,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,27560,General,General,Expenditures,2388
+145,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,6852,General,General,Expenditures,2391
+146,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Educational Supplies,10018,General,General,Expenditures,2395
+147,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,1500,Special Revenue,Special Revenue,Expenditures,2402
+148,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,155,General,General,Expenditures,2405
+149,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,2614775,General,General,Expenditures,2426
+150,2019,Culture and Recreation,,Parks and Recreation,General Supplies,RECTRAC System Supplies,4087,General,General,Expenditures,2460
+151,2019,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Facilities,1088,General,General,Expenditures,2474
+152,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,11891,General,General,Expenditures,2496
+153,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,918,General,General,Expenditures,2506
+154,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,4591,General,General,Expenditures,2532
+155,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,6588,General,General,Expenditures,2539
+156,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,8087,General,General,Expenditures,2556
+157,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,1779,General,General,Expenditures,2564
+158,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,500,Special Revenue,Special Revenue,Expenditures,2601
+159,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,95391,General,General,Expenditures,2610
+160,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Decorations,6857,General,General,Expenditures,2611
+161,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Capital Recovery Expense,22547,General,General,Expenditures,2619
+162,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,1000,Special Revenue,Special Revenue,Expenditures,2633
+163,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,33493,General,General,Expenditures,2637
+164,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,57897,General,General,Expenditures,2660
+165,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Permit Fees,184,General,General,Expenditures,2680
+166,2019,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,700,Special Revenue,Special Revenue,Expenditures,2706
+167,2019,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Tires & Tubes,2755,General,General,Expenditures,2751
+168,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,1000,Special Revenue,Special Revenue,Expenditures,2791
+169,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,151,Special Revenue,Special Revenue,Expenditures,2816
+170,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,4132,General,General,Expenditures,2829
+171,2019,Culture and Recreation,,Parks and Recreation,Professional Services,CPR Vendors,12523,General,General,Expenditures,2859
+172,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,35945,Special Revenue,Special Revenue,Expenditures,2875
+173,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,54913,General,General,Expenditures,2883
+174,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,7340,Special Revenue,Special Revenue,Expenditures,2886
+175,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,4142,General,General,Expenditures,2915
+176,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,5649,General,General,Expenditures,2940
+177,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,965,General,General,Expenditures,3007
+178,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Landscaping Supplies,1424,General,General,Expenditures,3023
+179,2019,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,1377,General,General,Expenditures,3028
+180,2019,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,11790,General,General,Expenditures,3048
+181,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,6474,General,General,Expenditures,3057
+182,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,4038,General,General,Expenditures,3058
+183,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,2500,Special Revenue,Special Revenue,Expenditures,3062
+184,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Seminars/Outside Training Fees,918,General,General,Expenditures,3089
+185,2019,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,37276,General,General,Expenditures,3119
+186,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,629,General,General,Expenditures,3122
+187,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,4592,General,General,Expenditures,3153
+188,2019,Culture and Recreation,,Parks and Recreation,General Supplies,RECTRAC System Supplies,322,General,General,Expenditures,3200
+189,2019,Welfare,,Parks and Recreation,Miscellaneous,Internal Charges,4000,Special Revenue,Special Revenue,Expenditures,3205
+190,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,31608,General,General,Expenditures,3241
+191,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,1310531,General,General,Expenditures,3261
+192,2019,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Equipment,4316,General,General,Expenditures,3272
+193,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Travel,8271,General,General,Expenditures,3304
+194,2019,Economic Development and Assistance,,Parks and Recreation,General Supplies,Special Department Supplies,100000,Special Revenue,Special Revenue,Expenditures,3311
+195,2019,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Software,14018,General,General,Expenditures,3340
+196,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Seminars/Outside Training Fees,126,General,General,Expenditures,3346
+197,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Kitchen Utensils,3122,General,General,Expenditures,3347
+198,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Costumes,9522,General,General,Expenditures,3350
+199,2019,Culture and Recreation,,Parks and Recreation,Building Maintenance,Custodial Supplies,5514,General,General,Expenditures,3357
+200,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,246793,General,General,Expenditures,3361
+201,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,5000,Special Revenue,Special Revenue,Expenditures,3370
+202,2019,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,3750,Special Revenue,Special Revenue,Expenditures,3377
+203,2019,Culture and Recreation,,Parks and Recreation,Building Maintenance,Heat/AC Repair Materials,315,General,General,Expenditures,3382
+204,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Arts and Craft Supplies,13662,General,General,Expenditures,3406
+205,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,100000,General,General,Expenditures,3460
+206,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Internal Charges,44635,Special Revenue,Special Revenue,Expenditures,3462
+207,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,3326115,General,General,Expenditures,3467
+208,2019,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,14998,General,General,Expenditures,3471
+209,2019,Welfare,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,10000,Special Revenue,Special Revenue,Expenditures,3512
+210,2019,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,6414,General,General,Expenditures,3518
+211,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Arts and Craft Supplies,1507,General,General,Expenditures,3528
+212,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,6400,Special Revenue,Special Revenue,Expenditures,3530
+213,2019,Culture and Recreation,,Parks and Recreation,Professional Services,DJ Services,488,General,General,Expenditures,3537
+214,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Books & Maps,431,General,General,Expenditures,3539
+215,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,21735,General,General,Expenditures,3542
+216,2019,Welfare,,Parks and Recreation,General Supplies,Special Department Supplies,35500,Special Revenue,Special Revenue,Expenditures,3573
+217,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,184,General,General,Expenditures,3586
+218,2019,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,1761,General,General,Expenditures,3587
+219,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,5500,General,General,Expenditures,3626
+220,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,3119,General,General,Expenditures,3635
+221,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous,Association Fees,275,General,General,Expenditures,3651
+222,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,4179,General,General,Expenditures,3673
+223,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Artistic Services,200000,Special Revenue,Special Revenue,Expenditures,3718
+224,2019,Culture and Recreation,,Parks and Recreation,Rentals,Port-A-Potties,6200,Special Revenue,Special Revenue,Expenditures,3730
+225,2019,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,2651352,General,General,Expenditures,3732
+226,2019,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Telephone Supplies,551,General,General,Expenditures,3738
+227,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,17971,General,General,Expenditures,3860
+228,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Fitness Equipment,30034,General,General,Expenditures,3879
+229,2019,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,3000,Special Revenue,Special Revenue,Expenditures,3929
+230,2019,Culture and Recreation,,Parks and Recreation,Insurance,Premiums Paid,826,General,General,Expenditures,3936
+231,2019,Economic Development and Assistance,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,10000,Special Revenue,Special Revenue,Expenditures,3937
+232,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,28608,General,General,Expenditures,3943
+233,2019,Culture and Recreation,,Parks and Recreation,Professional Services,DJ Services,1933,General,General,Expenditures,3945
+234,2019,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,40188,General,General,Expenditures,3949
+235,2019,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,11538,General,General,Expenditures,3961
+236,2019,Culture and Recreation,,Parks and Recreation,Utilities,Gas,3214,General,General,Expenditures,3968
+237,2019,Economic Development and Assistance,,Parks and Recreation,General Supplies,Computer Supplies,25000,Special Revenue,Special Revenue,Expenditures,3973
+238,2019,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,7346,General,General,Expenditures,3999
+239,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Sponsorships,20000,Special Revenue,Special Revenue,Revenue,7606
+240,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,80000,Special Revenue,Special Revenue,Revenue,7615
+241,2019,Economic Development and Assistance,,Parks and Recreation,Charges for Service,Charges For Labor/Material,40000,Special Revenue,Special Revenue,Revenue,7640
+242,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,1916200,General,General,Revenue,7653
+243,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-157500,Special Revenue,Special Revenue,Revenue,7657
+244,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Equipment Rentals,28300,General,General,Revenue,7662
+245,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Sponsorships,24000,Special Revenue,Special Revenue,Revenue,7705
+246,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Fund Raising Events,500,General,General,Revenue,7711
+247,2019,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,40000,Special Revenue,Special Revenue,Revenue,7715
+248,2019,Welfare,,Parks and Recreation,Appropriated Fund Balance,Appropriated Fund Balance,104000,Special Revenue,Special Revenue,Revenue,7729
+249,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Memberships,790000,General,General,Revenue,7732
+250,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,POS Sales,3400,General,General,Revenue,7742
+251,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,1770,General,General,Revenue,7745
+252,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Other Reimbursements,15000,Special Revenue,Special Revenue,Revenue,7759
+253,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Other Miscellaneous,500000,General,General,Revenue,7765
+254,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-829000,General,General,Revenue,7813
+255,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Light Fee Revenue,455000,Special Revenue,Special Revenue,Revenue,7832
+256,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,20,General,General,Revenue,7837
+257,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Cash Over Or Short,-20,General,General,Revenue,7838
+258,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Park Rentals,263071,General,General,Revenue,7843
+259,2019,Economic Development and Assistance,,Parks and Recreation,Miscellaneous Revenue,Donations,150000,Special Revenue,Special Revenue,Revenue,7845
+260,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,70000,Special Revenue,Special Revenue,Revenue,7863
+261,2019,Culture and Recreation,,Parks and Recreation,Appropriated Fund Balance,Appropriated Fund Balance,33500,Special Revenue,Special Revenue,Revenue,7879
+262,2019,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,100000,Special Revenue,Special Revenue,Revenue,7882
+263,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,8400,Special Revenue,Special Revenue,Revenue,7930
+264,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,7500,Special Revenue,Special Revenue,Revenue,7989
+265,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Swimming Pool Fees,185000,General,General,Revenue,8002
+266,2019,Economic Development and Assistance,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,130000,Special Revenue,Special Revenue,Revenue,8004
+267,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Miscellaneous Fees,100300,General,General,Revenue,8014
+268,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Equipment Rentals,500,General,General,Revenue,8045
+269,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,86900,General,General,Revenue,8070
+270,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,POS Sales,37300,General,General,Revenue,8071
+271,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,10000,General,General,Revenue,8073
+272,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Fund Raising Events,3180,General,General,Revenue,8084
+273,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,1300,General,General,Revenue,8091
+274,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,342787,General,General,Revenue,8107
+275,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,120400,Special Revenue,Special Revenue,Revenue,8121
+276,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Miscellaneous Rentals,297742,General,General,Revenue,8137
+277,2019,Culture and Recreation,,Parks and Recreation,Interest Earnings,Interest On Investments,10000,Special Revenue,Special Revenue,Revenue,8142
+278,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,110000,General,General,Revenue,8163
+279,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Field Fees Revenue,2016592,Special Revenue,Special Revenue,Revenue,8168
+280,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-400,General,General,Revenue,8198
+281,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-2496,Special Revenue,Special Revenue,Revenue,8215
+282,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-9400,General,General,Revenue,8246
+283,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,3100,General,General,Revenue,8251
+284,2019,Culture and Recreation,,Parks and Recreation,Taxes,Residential Park Construction Tax,800000,Capital Projects,Capital Projects,Revenue,8264
+285,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-1800,Special Revenue,Special Revenue,Revenue,8277
+286,2019,Culture and Recreation,,Parks and Recreation,Charges for Service,Memberships,132000,General,General,Revenue,8283
+287,2019,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,State Grants,1500,Special Revenue,Special Revenue,Revenue,8298
+288,2019,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Park Rentals,114500,General,General,Revenue,8394
+289,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,1787327,General,General,Expenditures,10948
+290,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,32240,General,General,Expenditures,10952
+291,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,2160,General,General,Expenditures,10958
+292,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,523818,General,General,Expenditures,10964
+293,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,27108,General,General,Expenditures,10970
+294,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,1999,General,General,Expenditures,10974
+295,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,419063,General,General,Expenditures,10980
+296,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,2707,General,General,Expenditures,10986
+297,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Boards & Commissions,132,General,General,Expenditures,10992
+298,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,2575,General,General,Expenditures,11040
+299,2020,Culture and Recreation,,Parks and Recreation,Professional Services,DJ Services,467,General,General,Expenditures,11044
+300,2020,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,3214,General,General,Expenditures,11049
+301,2020,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,455,General,General,Expenditures,11054
+302,2020,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,25000,General,General,Expenditures,11059
+303,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,5320,General,General,Expenditures,11064
+304,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Travel,4395,General,General,Expenditures,11065
+305,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,220,General,General,Expenditures,11066
+306,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,4396,General,General,Expenditures,11067
+307,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Seminars/Outside Training Fees,2425,General,General,Expenditures,11068
+308,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Guest Speaker Fees,3516,General,General,Expenditures,11069
+309,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,28000,General,General,Expenditures,11070
+310,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,7100,General,General,Expenditures,11071
+311,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,8746,General,General,Expenditures,11072
+312,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,79934,General,General,Expenditures,11073
+313,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Non-Employee Travel,2310,General,General,Expenditures,11074
+314,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Meals & Entertainment,2525,General,General,Expenditures,11075
+315,2020,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Software,14500,General,General,Expenditures,11076
+316,2020,Culture and Recreation,,Parks and Recreation,Rentals,Rental Of Office Equipment,322,General,General,Expenditures,11077
+317,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,16356,General,General,Expenditures,11078
+318,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,45424,General,General,Expenditures,11079
+319,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Fleet Addition Expense,34000,General,General,Expenditures,11080
+320,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,24754,General,General,Expenditures,11081
+321,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,5016,General,General,Expenditures,11082
+322,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,11834,General,General,Expenditures,11083
+323,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,98443,General,General,Expenditures,11084
+324,2020,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,360,General,General,Expenditures,11085
+325,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,88371,General,General,Expenditures,11086
+326,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,4914,General,General,Expenditures,11087
+327,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,4480,General,General,Expenditures,11088
+328,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,2750,General,General,Expenditures,11089
+329,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,3829,General,General,Expenditures,11090
+330,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Kitchen Utensils,2988,General,General,Expenditures,11201
+331,2020,Culture and Recreation,,Parks and Recreation,General Supplies,RECTRAC System Supplies,4010,General,General,Expenditures,11202
+332,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,321,General,General,Expenditures,11203
+333,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,9023,General,General,Expenditures,11204
+334,2020,Culture and Recreation,,Parks and Recreation,Building Maintenance,Custodial Supplies,483,General,General,Expenditures,11206
+335,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,264,General,General,Expenditures,11207
+336,2020,Culture and Recreation,,Parks and Recreation,Building Maintenance,Building Repair Materials,220,General,General,Expenditures,11209
+337,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,176,General,General,Expenditures,11210
+338,2020,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,220,General,General,Expenditures,11212
+339,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,4160,General,General,Expenditures,11213
+340,2020,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,1318,General,General,Expenditures,11215
+341,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Application Software,3836,General,General,Expenditures,11216
+342,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,903,General,General,Expenditures,11218
+343,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,17906,General,General,Expenditures,11219
+344,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,1717643,General,General,Expenditures,11220
+345,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,133902,General,General,Expenditures,11224
+346,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,4591,General,General,Expenditures,11225
+347,2020,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,1318,General,General,Expenditures,11228
+348,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,1686,General,General,Expenditures,11231
+349,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,439,General,General,Expenditures,11234
+350,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Telephone Supplies,527,General,General,Expenditures,11237
+351,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,3148694,General,General,Expenditures,11240
+352,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,2667071,General,General,Expenditures,11243
+353,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,86400,General,General,Expenditures,11282
+354,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,924464,General,General,Expenditures,11288
+355,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,86868,General,General,Expenditures,11292
+356,2020,Culture and Recreation,,Parks and Recreation,Rentals,Laundry & Uniform Rental,2149,General,General,Expenditures,11295
+357,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,165358,General,General,Expenditures,11297
+358,2020,Culture and Recreation,,Parks and Recreation,Rentals,Rental Of Films,191,General,General,Expenditures,11300
+359,2020,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Diesel Fuel,1916,General,General,Expenditures,11301
+360,2020,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,10531,General,General,Expenditures,11350
+361,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,1067735,General,General,Expenditures,11352
+362,2020,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,4905,General,General,Expenditures,11354
+363,2020,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,39329,General,General,Expenditures,11356
+364,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,6167,General,General,Expenditures,11357
+365,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,3829,General,General,Expenditures,11360
+366,2020,Culture and Recreation,,Parks and Recreation,Rentals,Storage Units,191,General,General,Expenditures,11361
+367,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,32182,General,General,Expenditures,11362
+368,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Sports Officials,35684,General,General,Expenditures,11363
+369,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,67377,General,General,Expenditures,11364
+370,2020,Culture and Recreation,,Parks and Recreation,Professional Services,CPR Vendors,13945,General,General,Expenditures,11365
+371,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Buses/Transportation,62156,General,General,Expenditures,11366
+372,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Entertainment,447,General,General,Expenditures,11367
+373,2020,Culture and Recreation,,Parks and Recreation,Professional Services,DJ Services,1755,General,General,Expenditures,11368
+374,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Custodial Services,311,General,General,Expenditures,11369
+375,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Artistic Services,1693,General,General,Expenditures,11370
+376,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Contract Services,244,General,General,Expenditures,11371
+377,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Permit Fees,4619,General,General,Expenditures,11372
+378,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Video Production Services,96,General,General,Expenditures,11373
+379,2020,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,37767,General,General,Expenditures,11374
+380,2020,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,53,General,General,Expenditures,11375
+381,2020,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,2500,General,General,Expenditures,11376
+382,2020,Culture and Recreation,,Parks and Recreation,Utilities,Waste Removal,775,General,General,Expenditures,11377
+383,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,"Freight, Moving & Storage",2130,General,General,Expenditures,11378
+384,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,2737,General,General,Expenditures,11379
+385,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Travel,7125,General,General,Expenditures,11380
+386,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,5263,General,General,Expenditures,11381
+387,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,1725,General,General,Expenditures,11382
+388,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Seminars/Outside Training Fees,64,General,General,Expenditures,11383
+389,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Guest Speaker Fees,64,General,General,Expenditures,11384
+390,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,15871,General,General,Expenditures,11385
+391,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,21114,General,General,Expenditures,11386
+392,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,7108,General,General,Expenditures,11387
+393,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,342,General,General,Expenditures,11388
+394,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Meals & Entertainment,48,General,General,Expenditures,11389
+395,2020,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Facilities,3544,General,General,Expenditures,11390
+396,2020,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Equipment,23404,General,General,Expenditures,11392
+397,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,11531,General,General,Expenditures,11393
+398,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,4171,General,General,Expenditures,11396
+399,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Telephone Supplies,388,General,General,Expenditures,11398
+400,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,19201,General,General,Expenditures,11403
+401,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,100000,General,General,Expenditures,11405
+402,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Professional Certifications,594,General,General,Expenditures,11408
+403,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,872287,General,General,Expenditures,11410
+404,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,12846,General,General,Expenditures,11413
+405,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,251274,General,General,Expenditures,11415
+406,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Permits,2838,General,General,Expenditures,11418
+407,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,10800,General,General,Expenditures,11420
+408,2020,Culture and Recreation,,Parks and Recreation,Insurance,Insurance & Bonds,20,General,General,Expenditures,11441
+409,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,256423,General,General,Expenditures,11442
+410,2020,Culture and Recreation,,Parks and Recreation,Insurance,Premiums Paid,1111,General,General,Expenditures,11444
+411,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,16809,General,General,Expenditures,11449
+412,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,59301,General,General,Expenditures,11451
+413,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,17898,General,General,Expenditures,11453
+414,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,15596,General,General,Expenditures,11456
+415,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,568262,General,General,Expenditures,11457
+416,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,265479,General,General,Expenditures,11490
+417,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,6265,General,General,Expenditures,11491
+418,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,6058,General,General,Expenditures,11492
+419,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Buses/Transportation,6352,General,General,Expenditures,11493
+420,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Permit Fees,176,General,General,Expenditures,11494
+421,2020,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,16003,General,General,Expenditures,11495
+422,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,"Freight, Moving & Storage",134,General,General,Expenditures,11496
+423,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,311,General,General,Expenditures,11497
+424,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,2877,General,General,Expenditures,11498
+425,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,2521,General,General,Expenditures,11499
+426,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,6401,General,General,Expenditures,11500
+427,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,3881,General,General,Expenditures,11501
+428,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,158,General,General,Expenditures,11502
+429,2020,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Equipment,3041,General,General,Expenditures,11503
+430,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,6483,General,General,Expenditures,11504
+431,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,6727,General,General,Expenditures,11505
+432,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Capital Recovery Expense,29090,General,General,Expenditures,11506
+433,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Permits,318,General,General,Expenditures,11507
+434,2020,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,4920,General,General,Expenditures,11508
+435,2020,Culture and Recreation,,Parks and Recreation,Insurance,Premiums Paid,754,General,General,Expenditures,11509
+436,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,3942440,General,General,Expenditures,11511
+437,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,280649,General,General,Expenditures,11512
+438,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,20499,General,General,Expenditures,11513
+439,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,6577,General,General,Expenditures,11514
+440,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,4343,General,General,Expenditures,11515
+441,2020,Culture and Recreation,,Parks and Recreation,General Supplies,RECTRAC System Supplies,1005,General,General,Expenditures,11516
+442,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,89166,General,General,Expenditures,11517
+443,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,14294,General,General,Expenditures,11518
+444,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Fitness Equipment,24254,General,General,Expenditures,11519
+445,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Tables & Chairs,4959,General,General,Expenditures,11520
+446,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Arts and Craft Supplies,16834,General,General,Expenditures,11521
+447,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,19519,General,General,Expenditures,11522
+448,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Decorations,5649,General,General,Expenditures,11523
+449,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Wheel Chairs/Adaptive Appliances,30,General,General,Expenditures,11524
+450,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Costumes,9316,General,General,Expenditures,11525
+451,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Landscaping Supplies,96,General,General,Expenditures,11526
+452,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Photo & Duplicating Supplies,479,General,General,Expenditures,11527
+453,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,4395,General,General,Expenditures,11528
+454,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Books & Maps,102,General,General,Expenditures,11529
+455,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,41271,General,General,Expenditures,11530
+456,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Lunch Programs,144,General,General,Expenditures,11531
+457,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Community Events - Perishables,3277,General,General,Expenditures,11532
+458,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Snack Programs,72,General,General,Expenditures,11533
+459,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Water,1198,General,General,Expenditures,11534
+460,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Kitchen Utensils,87,General,General,Expenditures,11535
+461,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,35432,General,General,Expenditures,11536
+462,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,10531,General,General,Expenditures,11537
+463,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Leagues & Tournaments,68997,General,General,Expenditures,11538
+464,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Educational Supplies,7948,General,General,Expenditures,11539
+465,2020,Culture and Recreation,,Parks and Recreation,Building Maintenance,Custodial Supplies,5183,General,General,Expenditures,11540
+466,2020,Culture and Recreation,,Parks and Recreation,Building Maintenance,Paint Supplies,30,General,General,Expenditures,11541
+467,2020,Culture and Recreation,,Parks and Recreation,Building Maintenance,Building Repair Materials,152,General,General,Expenditures,11542
+468,2020,Culture and Recreation,,Parks and Recreation,Building Maintenance,Heat/AC Repair Materials,152,General,General,Expenditures,11543
+469,2020,Culture and Recreation,,Parks and Recreation,Building Maintenance,Locksmith Supplies,1292,General,General,Expenditures,11544
+470,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,900,General,General,Expenditures,11545
+471,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,133933,General,General,Expenditures,11546
+472,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,734634,General,General,Expenditures,11547
+473,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,55390,General,General,Expenditures,11548
+474,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,5940,General,General,Expenditures,11549
+475,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,3853,General,General,Expenditures,11550
+476,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,2406,General,General,Expenditures,11551
+477,2020,Culture and Recreation,,Parks and Recreation,General Supplies,RECTRAC System Supplies,132,General,General,Expenditures,11552
+478,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,26786,General,General,Expenditures,11553
+479,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,400,General,General,Expenditures,11554
+480,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Fitness Equipment,2759,General,General,Expenditures,11555
+481,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Arts and Craft Supplies,2764,General,General,Expenditures,11556
+482,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,2264,General,General,Expenditures,11557
+483,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Decorations,2268,General,General,Expenditures,11558
+484,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Costumes,264,General,General,Expenditures,11559
+485,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Landscaping Supplies,3143,General,General,Expenditures,11560
+486,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Photo & Duplicating Supplies,124,General,General,Expenditures,11561
+487,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,859,General,General,Expenditures,11562
+488,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,46673,General,General,Expenditures,11563
+489,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Artistic Services,200000,Special Revenue,Special Revenue,Expenditures,11606
+490,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,10600,Special Revenue,Special Revenue,Expenditures,11654
+491,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Fitness Equipment,150,Special Revenue,Special Revenue,Expenditures,11676
+492,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,32000,Special Revenue,Special Revenue,Expenditures,11680
+493,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,2000,Special Revenue,Special Revenue,Expenditures,11696
+494,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,2000,Special Revenue,Special Revenue,Expenditures,11701
+495,2020,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,1000,Special Revenue,Special Revenue,Expenditures,11708
+496,2020,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,4000,Special Revenue,Special Revenue,Expenditures,11715
+497,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,1400,Special Revenue,Special Revenue,Expenditures,11722
+498,2020,Economic Development and Assistance,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,25000,Special Revenue,Special Revenue,Expenditures,11747
+499,2020,Welfare,,Parks and Recreation,Miscellaneous,Internal Charges,8000,Special Revenue,Special Revenue,Expenditures,11776
+500,2020,Welfare,,Parks and Recreation,General Supplies,Special Department Supplies,71000,Special Revenue,Special Revenue,Expenditures,11781
+501,2020,Welfare,,Parks and Recreation,General Supplies,Groceries,89000,Special Revenue,Special Revenue,Expenditures,11782
+502,2020,Welfare,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,20000,Special Revenue,Special Revenue,Expenditures,11783
+503,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,300,Special Revenue,Special Revenue,Expenditures,11784
+504,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,300,Special Revenue,Special Revenue,Expenditures,11785
+505,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,527725,Special Revenue,Special Revenue,Expenditures,11786
+506,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,126480,Special Revenue,Special Revenue,Expenditures,11787
+507,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,150655,Special Revenue,Special Revenue,Expenditures,11788
+508,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,9473,Special Revenue,Special Revenue,Expenditures,11789
+509,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,7842,Special Revenue,Special Revenue,Expenditures,11790
+510,2020,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,176841,Special Revenue,Special Revenue,Expenditures,11791
+511,2020,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Telephone Supplies,50,Special Revenue,Special Revenue,Expenditures,11792
+512,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,20000,Special Revenue,Special Revenue,Expenditures,11793
+513,2020,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,5000,Special Revenue,Special Revenue,Expenditures,11794
+514,2020,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,200,Special Revenue,Special Revenue,Expenditures,11795
+515,2020,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,1796000,Special Revenue,Special Revenue,Expenditures,11796
+516,2020,Culture and Recreation,,Parks and Recreation,Utilities,Waste Removal,4500,Special Revenue,Special Revenue,Expenditures,11797
+517,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,"Freight, Moving & Storage",200,Special Revenue,Special Revenue,Expenditures,11798
+518,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,2000,Special Revenue,Special Revenue,Expenditures,11799
+519,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,34000,Special Revenue,Special Revenue,Expenditures,11800
+520,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,5000,Special Revenue,Special Revenue,Expenditures,11801
+521,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,1872,Special Revenue,Special Revenue,Expenditures,11802
+522,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,300,Special Revenue,Special Revenue,Expenditures,11803
+523,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,200,Special Revenue,Special Revenue,Expenditures,11804
+524,2020,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Facilities,810000,Special Revenue,Special Revenue,Expenditures,11805
+525,2020,Culture and Recreation,,Parks and Recreation,Rentals,Port-A-Potties,13100,Special Revenue,Special Revenue,Expenditures,11806
+526,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,200,Special Revenue,Special Revenue,Expenditures,11807
+527,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,20000,Special Revenue,Special Revenue,Expenditures,11808
+528,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,4281,Special Revenue,Special Revenue,Expenditures,11809
+529,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,1480,Special Revenue,Special Revenue,Expenditures,11810
+530,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,41828,Special Revenue,Special Revenue,Expenditures,11811
+531,2020,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Capital Recovery Expense,3500,Special Revenue,Special Revenue,Expenditures,11812
+532,2020,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,660,Special Revenue,Special Revenue,Expenditures,11813
+533,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,14680,Special Revenue,Special Revenue,Expenditures,11814
+534,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,4000,Special Revenue,Special Revenue,Expenditures,11815
+535,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,5000,Special Revenue,Special Revenue,Expenditures,11816
+536,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Medical Services,1326,Special Revenue,Special Revenue,Expenditures,11818
+537,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,22114,Special Revenue,Special Revenue,Expenditures,11820
+538,2020,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,3300,Special Revenue,Special Revenue,Expenditures,11825
+539,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,1580,Special Revenue,Special Revenue,Expenditures,11830
+540,2020,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,3892,Special Revenue,Special Revenue,Expenditures,11835
+541,2020,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Facilities,95000,Special Revenue,Special Revenue,Expenditures,11872
+542,2020,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,7510,Special Revenue,Special Revenue,Expenditures,11875
+543,2020,Culture and Recreation,,Parks and Recreation,Rentals,Port-A-Potties,1020,Special Revenue,Special Revenue,Expenditures,11876
+544,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,302,Special Revenue,Special Revenue,Expenditures,11880
+545,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Internal Charges,89270,Special Revenue,Special Revenue,Expenditures,11884
+546,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,14320,Special Revenue,Special Revenue,Expenditures,11888
+547,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,2000,Special Revenue,Special Revenue,Expenditures,11892
+548,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,12800,Special Revenue,Special Revenue,Expenditures,11896
+549,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,20000,Special Revenue,Special Revenue,Expenditures,11897
+550,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,3000,Special Revenue,Special Revenue,Expenditures,11898
+551,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,200,Special Revenue,Special Revenue,Expenditures,11899
+552,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,1000,Special Revenue,Special Revenue,Expenditures,11900
+553,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Community Events - Perishables,100,Special Revenue,Special Revenue,Expenditures,11901
+554,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,10000,Special Revenue,Special Revenue,Expenditures,11902
+555,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,1000,Special Revenue,Special Revenue,Expenditures,11903
+556,2020,Culture and Recreation,,Parks and Recreation,General Supplies,Leagues & Tournaments,10000,Special Revenue,Special Revenue,Expenditures,11904
+557,2020,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,81732,Special Revenue,Special Revenue,Expenditures,12053
+558,2020,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Paid Time Not Worked,156,Special Revenue,Special Revenue,Expenditures,12054
+559,2020,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Salary Add- Ons,18,Special Revenue,Special Revenue,Expenditures,12055
+560,2020,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,23372,Special Revenue,Special Revenue,Expenditures,12056
+561,2020,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,1185,Special Revenue,Special Revenue,Expenditures,12057
+562,2020,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,22050,Special Revenue,Special Revenue,Expenditures,12058
+563,2020,Economic Development and Assistance,,Parks and Recreation,Utilities,Telephone - Basic,103,Special Revenue,Special Revenue,Expenditures,12059
+564,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,10000,General,General,Revenue,13601
+565,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,1300,General,General,Revenue,13604
+566,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Fund Raising Events,500,General,General,Revenue,13607
+567,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,92900,General,General,Revenue,13611
+568,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Other Miscellaneous,250000,General,General,Revenue,13616
+569,2020,Economic Development and Assistance,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,90700,Special Revenue,Special Revenue,Revenue,13631
+570,2020,Economic Development and Assistance,,Parks and Recreation,Charges for Service,Charges For Labor/Material,40000,Special Revenue,Special Revenue,Revenue,13632
+571,2020,Welfare,,Parks and Recreation,Miscellaneous Revenue,Donations,1120,Special Revenue,Special Revenue,Revenue,13724
+572,2020,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,100000,Special Revenue,Special Revenue,Revenue,13730
+573,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-1800,Special Revenue,Special Revenue,Revenue,13743
+574,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,7500,Special Revenue,Special Revenue,Revenue,13753
+575,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,140000,Special Revenue,Special Revenue,Revenue,13761
+576,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-315000,Special Revenue,Special Revenue,Revenue,13769
+577,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,16800,Special Revenue,Special Revenue,Revenue,13776
+578,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Field Fees Revenue,3954592,Special Revenue,Special Revenue,Revenue,13783
+579,2020,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,40000,Special Revenue,Special Revenue,Revenue,13806
+580,2020,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,State Grants,1500,Special Revenue,Special Revenue,Revenue,13807
+581,2020,Culture and Recreation,,Parks and Recreation,Interest Earnings,Interest On Investments,23504,Special Revenue,Special Revenue,Revenue,13808
+582,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,80000,Special Revenue,Special Revenue,Revenue,13809
+583,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Sponsorships,20000,Special Revenue,Special Revenue,Revenue,13810
+584,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Other Reimbursements,15000,Special Revenue,Special Revenue,Revenue,13811
+585,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Tournament % Surcharge Revenues,190000,Special Revenue,Special Revenue,Revenue,13814
+586,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Light Fee Revenue,910000,Special Revenue,Special Revenue,Revenue,13824
+587,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Equipment Rentals,1000,Special Revenue,Special Revenue,Revenue,13830
+588,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,10000,Special Revenue,Special Revenue,Revenue,13836
+589,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,265900,Special Revenue,Special Revenue,Revenue,13842
+590,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-4996,Special Revenue,Special Revenue,Revenue,13870
+591,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Sponsorships,48000,Special Revenue,Special Revenue,Revenue,13875
+592,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,3100,General,General,Revenue,13922
+593,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-9400,General,General,Revenue,13925
+594,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-829000,General,General,Revenue,13929
+595,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Park Rentals,114500,General,General,Revenue,13933
+596,2020,Economic Development and Assistance,,Parks and Recreation,Miscellaneous Revenue,Donations,25000,Special Revenue,Special Revenue,Revenue,13949
+597,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Equipment Rentals,28300,General,General,Revenue,13952
+598,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Swimming Pool Fees,285000,General,General,Revenue,13954
+599,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,1809000,General,General,Revenue,13956
+600,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-400,General,General,Revenue,13958
+601,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Memberships,1191087,General,General,Revenue,13961
+602,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,POS Sales,3400,General,General,Revenue,13962
+603,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Miscellaneous Fees,100300,General,General,Revenue,13963
+604,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Miscellaneous Rentals,747742,General,General,Revenue,13964
+605,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,342787,General,General,Revenue,13965
+606,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Park Rentals,263071,General,General,Revenue,13966
+607,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Equipment Rentals,500,General,General,Revenue,13967
+608,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Cash Over Or Short,-20,General,General,Revenue,13968
+609,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,1770,General,General,Revenue,13969
+610,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Fund Raising Events,3180,General,General,Revenue,13970
+611,2020,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,20,General,General,Revenue,13971
+612,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,110000,General,General,Revenue,13972
+613,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,Memberships,132000,General,General,Revenue,13973
+614,2020,Culture and Recreation,,Parks and Recreation,Charges for Service,POS Sales,37300,General,General,Revenue,13974
+615,2020,Culture and Recreation,,Parks and Recreation,Taxes,Residential Park Construction Tax,850000,Capital Projects,Capital Projects,Revenue,14039
+616,2020,Welfare,,Parks and Recreation,Appropriated Fund Balance,Appropriated Fund Balance,186880,Special Revenue,Special Revenue,Revenue,14307
+617,2020,Culture and Recreation,,Parks and Recreation,Appropriated Fund Balance,Appropriated Fund Balance,19996,Special Revenue,Special Revenue,Revenue,14313
+618,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Non-Employee Travel,2198,General,,Expenditures,16402
+619,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,43967,General,,Expenditures,16403
+620,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Custodial Services,311,General,,Expenditures,16404
+621,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Meals & Entertainment,2259,General,,Expenditures,16406
+622,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Lunch Programs,196,General,,Expenditures,16407
+623,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Artistic Services,1629,General,,Expenditures,16408
+624,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,1655082,General,,Expenditures,16431
+625,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Salaries and Wages,-49652,General,,Expenditures,16432
+626,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,32724,General,,Expenditures,16433
+627,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,2290,General,,Expenditures,16434
+628,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Bonus/Settlement Pay,105,General,,Expenditures,16435
+629,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,484111,General,,Expenditures,16436
+630,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,24827,General,,Expenditures,16437
+631,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Health and Wellness Allowance,22000,General,,Expenditures,16438
+632,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,2029,General,,Expenditures,16439
+633,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,375995,General,,Expenditures,16440
+634,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Benefit Allocation,-11246,General,,Expenditures,16441
+635,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Direct Benefits,-15253,General,,Expenditures,16442
+636,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,5300,General,,Expenditures,16445
+637,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,13879,General,,Expenditures,16446
+638,2021,Culture and Recreation,,Parks and Recreation,Professional Services,DJ Services,467,General,,Expenditures,16447
+639,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,1214,General,,Expenditures,16448
+640,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,200,General,,Expenditures,16449
+641,2021,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,25000,General,,Expenditures,16450
+642,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,2947,General,,Expenditures,16451
+643,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Travel,5395,General,,Expenditures,16452
+644,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,1260,General,,Expenditures,16453
+645,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,4396,General,,Expenditures,16454
+646,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Seminars/Outside Training Fees,3700,General,,Expenditures,16455
+647,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Guest Speaker Fees,5000,General,,Expenditures,16456
+648,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,25586,General,,Expenditures,16457
+649,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,9944,General,,Expenditures,16458
+650,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,966,General,,Expenditures,16459
+651,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,82934,General,,Expenditures,16460
+652,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Community Events - Perishables,2172,General,,Expenditures,16461
+653,2021,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Software,14500,General,,Expenditures,16462
+654,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Water,1058,General,,Expenditures,16465
+655,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Kitchen Utensils,200,General,,Expenditures,16467
+656,2021,Culture and Recreation,,Parks and Recreation,Rentals,Rental Of Office Equipment,4286,General,,Expenditures,16468
+657,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Permit Fees,7100,General,,Expenditures,16471
+658,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,41901,General,,Expenditures,16472
+659,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,10,General,,Expenditures,16473
+660,2021,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,2500,General,,Expenditures,16476
+661,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,30113,General,,Expenditures,16477
+662,2021,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,1000,General,,Expenditures,16481
+663,2021,Culture and Recreation,,Parks and Recreation,Utilities,Waste Removal,375,General,,Expenditures,16483
+664,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,11457,General,,Expenditures,16484
+665,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,18945,General,,Expenditures,16488
+666,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,"Freight, Moving & Storage",1773,General,,Expenditures,16490
+667,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Leagues & Tournaments,62986,General,,Expenditures,16492
+668,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,45424,General,,Expenditures,16495
+669,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,335,General,,Expenditures,16541
+670,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Educational Supplies,5290,General,,Expenditures,16542
+671,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Contract Services,35000,General,,Expenditures,16544
+672,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Travel,7957,General,,Expenditures,16547
+673,2021,Culture and Recreation,,Parks and Recreation,Building Maintenance,Custodial Supplies,4997,General,,Expenditures,16548
+674,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,3274,General,,Expenditures,16552
+675,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,-303221,General,,Expenditures,16553
+676,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,7776,General,,Expenditures,16554
+677,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,1954,General,,Expenditures,16558
+678,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,5016,General,,Expenditures,16559
+679,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Diesel Fuel,120,General,,Expenditures,16560
+680,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,18110,General,,Expenditures,16564
+681,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,9360,General,,Expenditures,16565
+682,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,17685,General,,Expenditures,16566
+683,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,21507,General,,Expenditures,16607
+684,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,670,General,,Expenditures,16609
+685,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,5135,General,,Expenditures,16610
+686,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,84890,General,,Expenditures,16611
+687,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,1502,General,,Expenditures,16612
+688,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Telephone Supplies,77,General,,Expenditures,16617
+689,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,24,General,,Expenditures,16619
+690,2021,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,360,General,,Expenditures,16620
+691,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,100000,General,,Expenditures,16622
+692,2021,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Facilities,3000,General,,Expenditures,16624
+693,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,115890,General,,Expenditures,16625
+694,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,744634,General,,Expenditures,16627
+695,2021,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Equipment,20420,General,,Expenditures,16629
+696,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,7064,General,,Expenditures,16630
+697,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Salaries and Wages,-22339,General,,Expenditures,16632
+698,2021,Culture and Recreation,,Parks and Recreation,Rentals,Laundry & Uniform Rental,957,General,,Expenditures,16634
+699,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,2655,General,,Expenditures,16635
+700,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,255183,General,,Expenditures,16637
+701,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,11448,General,,Expenditures,16638
+702,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Bonus/Settlement Pay,175,General,,Expenditures,16639
+703,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,217805,General,,Expenditures,16640
+704,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,14666,General,,Expenditures,16641
+705,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,15821,General,,Expenditures,16642
+706,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,229432,General,,Expenditures,16643
+707,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Benefit Allocation,-6615,General,,Expenditures,16644
+708,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Direct Benefits,-6858,General,,Expenditures,16645
+709,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,7473,General,,Expenditures,16646
+710,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,5760,General,,Expenditures,16647
+711,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Buses/Transportation,7515,General,,Expenditures,16648
+712,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,14129,General,,Expenditures,16649
+713,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,"Freight, Moving & Storage",190,General,,Expenditures,16650
+714,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,3166,General,,Expenditures,16651
+715,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,710,General,,Expenditures,16652
+716,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,1648,General,,Expenditures,16653
+717,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,6503,General,,Expenditures,16654
+718,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,2308,General,,Expenditures,16655
+719,2021,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Equipment,2325,General,,Expenditures,16656
+720,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,8162,General,,Expenditures,16657
+721,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,5415,General,,Expenditures,16658
+722,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Permits,27,General,,Expenditures,16659
+723,2021,Culture and Recreation,,Parks and Recreation,Insurance,Insurance & Bonds,1070,General,,Expenditures,16660
+724,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,900,General,,Expenditures,16661
+725,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,82008,General,,Expenditures,16662
+726,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,756753,General,,Expenditures,16663
+727,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,57620,General,,Expenditures,16664
+728,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,7920,General,,Expenditures,16665
+729,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,3396,General,,Expenditures,16666
+730,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,623,General,,Expenditures,16667
+731,2021,Culture and Recreation,,Parks and Recreation,Rentals,Rental Of Films,191,General,,Expenditures,16669
+732,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,1331,General,,Expenditures,16671
+733,2021,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,33770,General,,Expenditures,16673
+734,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,3829,General,,Expenditures,16675
+735,2021,Culture and Recreation,,Parks and Recreation,Rentals,Storage Units,191,General,,Expenditures,16677
+736,2021,Culture and Recreation,,Parks and Recreation,General Supplies,RECTRAC System Supplies,3248,General,,Expenditures,16679
+737,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,3692,General,,Expenditures,16681
+738,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,8381,General,,Expenditures,16683
+739,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,17521,General,,Expenditures,16685
+740,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,250,General,,Expenditures,16687
+741,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Professional Certifications,444,General,,Expenditures,16689
+742,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Books & Maps,176,General,,Expenditures,16691
+743,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,-1010000,General,,Expenditures,16693
+744,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,2775,General,,Expenditures,16695
+745,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Refunds,500,General,,Expenditures,16697
+746,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Community Events - Perishables,3500,General,,Expenditures,16699
+747,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Permits,2286,General,,Expenditures,16701
+748,2021,Culture and Recreation,,Parks and Recreation,Insurance,Premiums Paid,948,General,,Expenditures,16731
+749,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,23591,General,,Expenditures,16732
+750,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,59301,General,,Expenditures,16734
+751,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,10899,General,,Expenditures,16735
+752,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,364927,General,,Expenditures,16736
+753,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Capital Recovery Expense,29090,General,,Expenditures,16737
+754,2021,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,4920,General,,Expenditures,16738
+755,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,3975155,General,,Expenditures,16739
+756,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,305554,General,,Expenditures,16740
+757,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,22963,General,,Expenditures,16741
+758,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,4772,General,,Expenditures,16742
+759,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Computer Supplies,5404,General,,Expenditures,16743
+760,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,92204,General,,Expenditures,16744
+761,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,20733,General,,Expenditures,16745
+762,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Fitness Equipment,31622,General,,Expenditures,16746
+763,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Tables & Chairs,19453,General,,Expenditures,16747
+764,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Arts and Craft Supplies,12949,General,,Expenditures,16748
+765,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,22453,General,,Expenditures,16749
+766,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Decorations,7018,General,,Expenditures,16750
+767,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Wheel Chairs/Adaptive Appliances,600,General,,Expenditures,16751
+768,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Costumes,12000,General,,Expenditures,16752
+769,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,3968,General,,Expenditures,16753
+770,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Books & Maps,72,General,,Expenditures,16754
+771,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,500,General,,Expenditures,16755
+772,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,818,General,,Expenditures,16757
+773,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,1686,General,,Expenditures,16759
+774,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,439,General,,Expenditures,16761
+775,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Telephone Supplies,363,General,,Expenditures,16763
+776,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,3045579,General,,Expenditures,16781
+777,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Salaries and Wages,-91367,General,,Expenditures,16782
+778,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,2707077,General,,Expenditures,16783
+779,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Overtime,91584,General,,Expenditures,16784
+780,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Bonus/Settlement Pay,805,General,,Expenditures,16785
+781,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,890832,General,,Expenditures,16786
+782,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,84804,General,,Expenditures,16787
+783,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Health and Wellness Allowance,3505,General,,Expenditures,16788
+784,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,167839,General,,Expenditures,16789
+785,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,1109048,General,,Expenditures,16790
+786,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Benefit Allocation,-30429,General,,Expenditures,16791
+787,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Direct Benefits,-28052,General,,Expenditures,16792
+788,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,2253,General,,Expenditures,16793
+789,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,34944,General,,Expenditures,16794
+790,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Sports Officials,41442,General,,Expenditures,16795
+791,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,97034,General,,Expenditures,16796
+792,2021,Culture and Recreation,,Parks and Recreation,Professional Services,CPR Vendors,14126,General,,Expenditures,16797
+793,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Buses/Transportation,74644,General,,Expenditures,16798
+794,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Entertainment,383,General,,Expenditures,16799
+795,2021,Culture and Recreation,,Parks and Recreation,Professional Services,DJ Services,883,General,,Expenditures,16800
+796,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,25101,General,,Expenditures,16801
+797,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Contract Services,834000,General,,Expenditures,16802
+798,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,1453,General,,Expenditures,16803
+799,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Fleet Addition Expense,36000,General,,Expenditures,16804
+800,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Fitness Equipment,1364,General,,Expenditures,16805
+801,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Professional Certifications,500,General,,Expenditures,16808
+802,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Arts and Craft Supplies,2470,General,,Expenditures,16809
+803,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,1237751,General,,Expenditures,16813
+804,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,375,General,,Expenditures,16814
+805,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Machine Repair Materials,420,General,,Expenditures,16816
+806,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,63627,General,,Expenditures,16820
+807,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Decorations,3402,General,,Expenditures,16821
+808,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,2414,General,,Expenditures,16823
+809,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,564233,General,,Expenditures,16828
+810,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Costumes,213,General,,Expenditures,16829
+811,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,583,General,,Expenditures,16831
+812,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Capital Recovery Expense,421852,General,,Expenditures,16881
+813,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Landscaping Supplies,1623,General,,Expenditures,16882
+814,2021,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,119100,General,,Expenditures,16886
+815,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,1043,General,,Expenditures,16889
+816,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,172954,General,,Expenditures,16893
+817,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,49400,General,,Expenditures,16898
+818,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,11383,General,,Expenditures,16901
+819,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Kitchen Utensils,4383,General,,Expenditures,16903
+820,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,456,General,,Expenditures,16907
+821,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,7500,General,,Expenditures,16910
+822,2021,Culture and Recreation,,Parks and Recreation,Building Maintenance,Custodial Supplies,685,General,,Expenditures,16913
+823,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,503558,General,,Expenditures,16917
+824,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,525,General,,Expenditures,16920
+825,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Landscaping Supplies,700000,General,,Expenditures,16924
+826,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,3574,General,,Expenditures,16927
+827,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,183,General,,Expenditures,16970
+828,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Chemicals & Lab Supplies,210000,General,,Expenditures,16971
+829,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Facility Charges,1787374,General,,Expenditures,16975
+830,2021,Culture and Recreation,,Parks and Recreation,Building Maintenance,Custodial Supplies,160000,General,,Expenditures,16977
+831,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Liability Insurance Charges,145222,General,,Expenditures,16979
+832,2021,Culture and Recreation,,Parks and Recreation,Building Maintenance,Plumbing Supplies,200000,General,,Expenditures,16983
+833,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,7666340,General,,Expenditures,16985
+834,2021,Culture and Recreation,,Parks and Recreation,Building Maintenance,Paint Supplies,17000,General,,Expenditures,16989
+835,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Salaries and Wages,-229990,General,,Expenditures,16991
+836,2021,Culture and Recreation,,Parks and Recreation,Building Maintenance,Locksmith Supplies,10000,General,,Expenditures,16994
+837,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,81519,General,,Expenditures,16996
+838,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,19968,General,,Expenditures,16998
+839,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Diesel Fuel,13804,General,,Expenditures,17002
+840,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Bonus/Settlement Pay,2118,General,,Expenditures,17005
+841,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,159677,General,,Expenditures,17008
+842,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,2242405,General,,Expenditures,17011
+843,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,1000,General,,Expenditures,17014
+844,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,111785,General,,Expenditures,17017
+845,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Small Tools & Equipment,1000,General,,Expenditures,17020
+846,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Health and Wellness Allowance,20880,General,,Expenditures,17024
+847,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Telephone Supplies,750,General,,Expenditures,17027
+848,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,1238,General,,Expenditures,17030
+849,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery ,Motor Vehicle Parts,17000,General,,Expenditures,17033
+850,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,2690799,General,,Expenditures,17036
+851,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,856619,General,,Expenditures,17039
+852,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Benefit Allocation,-80703,General,,Expenditures,17042
+853,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Salaries and Wages,-25699,General,,Expenditures,17045
+854,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Direct Benefits,-70617,General,,Expenditures,17049
+855,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Bonus/Settlement Pay,175,General,,Expenditures,17052
+856,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,250561,General,,Expenditures,17055
+857,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Medical Services,2100,General,,Expenditures,17060
+858,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,12525,General,,Expenditures,17061
+859,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,38000,General,,Expenditures,17066
+860,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Health and Wellness Allowance,7000,General,,Expenditures,17067
+861,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Cellular,500,General,,Expenditures,17072
+862,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,286650,General,,Expenditures,17073
+863,2021,Culture and Recreation,,Parks and Recreation,Utilities,Water,3858664,General,,Expenditures,17101
+864,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Benefit Allocation,-8600,General,,Expenditures,17102
+865,2021,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,70000,General,,Expenditures,17106
+866,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Direct Benefits,-7893,General,,Expenditures,17107
+867,2021,Culture and Recreation,,Parks and Recreation,Utilities,Waste Removal,170000,General,,Expenditures,17109
+868,2021,Culture and Recreation,,Parks and Recreation,Utilities,Sewer Services,120000,General,,Expenditures,17110
+869,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,"Freight, Moving & Storage",1000,General,,Expenditures,17111
+870,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,50,General,,Expenditures,17112
+871,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Travel,16000,General,,Expenditures,17113
+872,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,5000,General,,Expenditures,17114
+873,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,1000,General,,Expenditures,17115
+874,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,3000,General,,Expenditures,17116
+875,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,1500,General,,Expenditures,17117
+876,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Advertising,500,General,,Expenditures,17118
+877,2021,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Vehicle Damage Repairs,10000,General,,Expenditures,17119
+878,2021,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Software,5000,General,,Expenditures,17120
+879,2021,Culture and Recreation,,Parks and Recreation,Rentals,Laundry & Uniform Rental,15000,General,,Expenditures,17121
+880,2021,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,15000,General,,Expenditures,17122
+881,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,3500,General,,Expenditures,17123
+882,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,6500,General,,Expenditures,17124
+883,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,12035,General,,Expenditures,17126
+884,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,1050,General,,Expenditures,17129
+885,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Entertainment,3086,General,,Expenditures,17133
+886,2021,Culture and Recreation,,Parks and Recreation,Professional Services,DJ Services,500,General,,Expenditures,17137
+887,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,2000,General,,Expenditures,17157
+888,2021,Culture and Recreation,,Parks and Recreation,Maintenance & Repairs,Maintenance Of Equipment,7500,General,,Expenditures,17158
+889,2021,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,2954,General,,Expenditures,17159
+890,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,600,General,,Expenditures,17160
+891,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Alarm & Security Services,720,General,,Expenditures,17161
+892,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,50000,General,,Expenditures,17162
+893,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Permits,600,General,,Expenditures,17163
+894,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,58006,General,,Expenditures,17164
+895,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,355,General,,Expenditures,17165
+896,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,30,General,,Expenditures,17166
+897,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,962,General,,Expenditures,17167
+898,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Diesel Fuel,459,General,,Expenditures,17168
+899,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Artistic Services,400000,Special Revenue ,,Expenditures,17177
+900,2021,Economic Development and Assistance,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,25000,Special Revenue ,,Expenditures,17225
+901,2021,Culture and Recreation,,Parks and Recreation,Rentals,Port-A-Potties,5000,Special Revenue ,,Expenditures,17228
+902,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,10000,Special Revenue ,,Expenditures,17282
+903,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - City Vehicles,4281,Special Revenue ,,Expenditures,17289
+904,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Maint - Radios & Pagers,2700,Special Revenue ,,Expenditures,17290
+905,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,PC Applications & Infrastructure,45655,Special Revenue ,,Expenditures,17291
+906,2021,Culture and Recreation,,Parks and Recreation,Vehicle & Eqiup Maint/Cap Recovery,Capital Recovery Expense,3500,Special Revenue ,,Expenditures,17292
+907,2021,Culture and Recreation,,Parks and Recreation,Liability Insurance,Vehicle Liability Insurance,660,Special Revenue ,,Expenditures,17293
+908,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,6000,Special Revenue ,,Expenditures,17294
+909,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Paper Products,700,Special Revenue ,,Expenditures,17295
+910,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,2500,Special Revenue ,,Expenditures,17296
+911,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,3000,Special Revenue ,,Expenditures,17297
+912,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,79000,Special Revenue ,,Expenditures,17298
+913,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,500,Special Revenue ,,Expenditures,17299
+914,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,500,Special Revenue ,,Expenditures,17300
+915,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Gasoline,500,Special Revenue ,,Expenditures,17301
+916,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Alternative Fuels,1000,Special Revenue ,,Expenditures,17302
+917,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Office Furnishings,650,Special Revenue ,,Expenditures,17303
+918,2021,Culture and Recreation,,Parks and Recreation,Furnishing & Small Tools,Telephone Supplies,50,Special Revenue ,,Expenditures,17304
+919,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Medical Services,663,Special Revenue ,,Expenditures,17305
+920,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,20057,Special Revenue ,,Expenditures,17306
+921,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Field Trip Vendors,3000,Special Revenue ,,Expenditures,17307
+922,2021,Culture and Recreation,,Parks and Recreation,Professional Services,DJ Services,500,Special Revenue ,,Expenditures,17308
+923,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,790,Special Revenue ,,Expenditures,17309
+924,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,1946,Special Revenue ,,Expenditures,17310
+925,2021,Culture and Recreation,,Parks and Recreation,Rentals,Miscellaneous Rentals,3755,Special Revenue ,,Expenditures,17311
+926,2021,Culture and Recreation,,Parks and Recreation,Rentals,Port-A-Potties,510,Special Revenue ,,Expenditures,17312
+927,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Dues & Subscriptions,151,Special Revenue ,,Expenditures,17313
+928,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Internal Charges,42835,Special Revenue ,,Expenditures,17314
+929,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,7160,Special Revenue ,,Expenditures,17315
+930,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Office Supplies,1000,Special Revenue ,,Expenditures,17316
+931,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,6400,Special Revenue ,,Expenditures,17317
+932,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Awards/Trophies,10000,Special Revenue ,,Expenditures,17318
+933,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,1500,Special Revenue ,,Expenditures,17319
+934,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Medical Supplies,200,Special Revenue ,,Expenditures,17320
+935,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Groceries,500,Special Revenue ,,Expenditures,17321
+936,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Community Events - Perishables,100,Special Revenue ,,Expenditures,17322
+937,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Uniform & Clothing Purchases,5000,Special Revenue ,,Expenditures,17323
+938,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Staff Uniforms,1000,Special Revenue ,,Expenditures,17324
+939,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Leagues & Tournaments,5000,Special Revenue ,,Expenditures,17325
+940,2021,Welfare,,Parks and Recreation,Miscellaneous,Internal Charges,4000,Special Revenue ,,Expenditures,17438
+941,2021,Welfare,,Parks and Recreation,General Supplies,Special Department Supplies,35500,Special Revenue ,,Expenditures,17476
+942,2021,Welfare,,Parks and Recreation,General Supplies,Groceries,34500,Special Revenue ,,Expenditures,17481
+943,2021,Welfare,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,10000,Special Revenue ,,Expenditures,17485
+944,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,5000,Special Revenue ,,Expenditures,17489
+945,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Meals & Entertainment,2000,Special Revenue ,,Expenditures,17493
+946,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous,Other Miscellaneous Expenses,10000,Special Revenue ,,Expenditures,17521
+947,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Special Department Supplies,2300,Special Revenue ,,Expenditures,17523
+948,2021,Culture and Recreation,,Parks and Recreation,General Supplies,Sports Equipment,300,Special Revenue ,,Expenditures,17526
+949,2021,Culture and Recreation,,Parks and Recreation,Machinery & Equip Maintenance,Equipment Replacement,1000,Special Revenue ,,Expenditures,17529
+950,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,524481,Special Revenue ,,Expenditures,17532
+951,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Salaries and Wages,-15734,Special Revenue ,,Expenditures,17535
+952,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Hourly Wages,128377,Special Revenue ,,Expenditures,17538
+953,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Bonus/Settlement Pay,140,Special Revenue ,,Expenditures,17541
+954,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,153411,Special Revenue ,,Expenditures,17544
+955,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,9468,Special Revenue ,,Expenditures,17547
+956,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",OASDI,7959,Special Revenue ,,Expenditures,17550
+957,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,180893,Special Revenue ,,Expenditures,17551
+958,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Benefit Allocation,-5292,Special Revenue ,,Expenditures,17552
+959,2021,Culture and Recreation,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Direct Benefits,-4831,Special Revenue ,,Expenditures,17553
+960,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Catering Services,500,Special Revenue ,,Expenditures,17554
+961,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Other Professional Services,6000,Special Revenue ,,Expenditures,17555
+962,2021,Culture and Recreation,,Parks and Recreation,Professional Services,Sports Officials,3500,Special Revenue ,,Expenditures,17556
+963,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Basic,2500,Special Revenue ,,Expenditures,17557
+964,2021,Culture and Recreation,,Parks and Recreation,Utilities,Telephone - Long Distance,100,Special Revenue ,,Expenditures,17558
+965,2021,Culture and Recreation,,Parks and Recreation,Utilities,Electricity,851340,Special Revenue ,,Expenditures,17559
+966,2021,Culture and Recreation,,Parks and Recreation,Utilities,Waste Removal,2500,Special Revenue ,,Expenditures,17560
+967,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Postage & Shipping,1000,Special Revenue ,,Expenditures,17561
+968,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Mileage Reimbursement,5500,Special Revenue ,,Expenditures,17562
+969,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Training & Development,2500,Special Revenue ,,Expenditures,17563
+970,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Printing & Reproduction,872,Special Revenue ,,Expenditures,17564
+971,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Copying Charges,300,Special Revenue ,,Expenditures,17565
+972,2021,Culture and Recreation,,Parks and Recreation,Communication & Transport,Desktop Printer Charges,100,Special Revenue ,,Expenditures,17566
+973,2021,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Salaries and Wages,82798,Special Revenue ,,Expenditures,17669
+974,2021,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Salaries and Wages,-2484,Special Revenue ,,Expenditures,17678
+975,2021,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Bonus/Settlement Pay,18,Special Revenue ,,Expenditures,17685
+976,2021,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Employee Retirement,24219,Special Revenue ,,Expenditures,17732
+977,2021,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Medicare Insurance,1201,Special Revenue ,,Expenditures,17737
+978,2021,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Benefit Allocation,22050,Special Revenue ,,Expenditures,17741
+979,2021,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Benefit Allocation,-662,Special Revenue ,,Expenditures,17747
+980,2021,Economic Development and Assistance,,Parks and Recreation,"Salaries, Wages & Benefits",Vacancy Factor Direct Benefits,-763,Special Revenue ,,Expenditures,17753
+981,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Park Rentals,193071,General,,Revenue,19201
+982,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Equipment Rentals,500,General,,Revenue,19202
+983,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Cash Over Or Short,-20,General,,Revenue,19203
+984,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,1770,General,,Revenue,19204
+985,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Fund Raising Events,3180,General,,Revenue,19205
+986,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,20,General,,Revenue,19207
+987,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,110000,General,,Revenue,19208
+988,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Memberships,132000,General,,Revenue,19209
+989,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,POS Sales,37300,General,,Revenue,19211
+990,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,10000,General,,Revenue,19213
+991,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,1300,General,,Revenue,19215
+992,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Fund Raising Events,500,General,,Revenue,19217
+993,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,92900,General,,Revenue,19219
+994,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Other Miscellaneous,250000,General,,Revenue,19221
+995,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Charges For Labor/Material,1700,General,,Revenue,19223
+996,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Miscellaneous Rentals,227950,General,,Revenue,19225
+997,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Insurance Reimbursement,4660,General,,Revenue,19227
+998,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,25645,General,,Revenue,19229
+999,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Rebates & Refunds,25000,General,,Revenue,19231
+1000,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Other Reimbursements,11011,General,,Revenue,19233
+1001,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,3100,General,,Revenue,19522
+1002,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-9400,General,,Revenue,19523
+1003,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-829000,General,,Revenue,19524
+1004,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Park Rentals,14040,General,,Revenue,19525
+1005,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Equipment Rentals,28300,General,,Revenue,19526
+1006,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Swimming Pool Fees,285000,General,,Revenue,19527
+1007,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,1809000,General,,Revenue,19528
+1008,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-400,General,,Revenue,19529
+1009,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Memberships,1191087,General,,Revenue,19530
+1010,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,POS Sales,3400,General,,Revenue,19531
+1011,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-655234,General,,Revenue,19532
+1012,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Miscellaneous Fees,100300,General,,Revenue,19533
+1013,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Miscellaneous Rentals,193142,General,,Revenue,19534
+1014,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,322337,General,,Revenue,19535
+1015,2021,Welfare,,Parks and Recreation,Appropriated Fund Balance,Appropriated Fund Balance,82480,Special Revenue,,Revenue,19558
+1016,2021,Economic Development and Assistance,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,132991,Special Revenue ,,Revenue,19624
+1017,2021,Economic Development and Assistance,,Parks and Recreation,Miscellaneous Revenue,Donations,25000,Special Revenue ,,Revenue,19746
+1018,2021,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,40000,Special Revenue ,,Revenue,19750
+1019,2021,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,State Grants,15000,Special Revenue ,,Revenue,19756
+1020,2021,Culture and Recreation,,Parks and Recreation,Interest Earnings,Interest On Investments,22000,Special Revenue ,,Revenue,19757
+1021,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,80000,Special Revenue ,,Revenue,19758
+1022,2021,Welfare,,Parks and Recreation,Miscellaneous Revenue,Donations,1520,Special Revenue ,,Revenue,19775
+1023,2021,Culture and Recreation,,Parks and Recreation,Intergovernmental Revenue,Federal Grants,100000,Special Revenue ,,Revenue,19776
+1024,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration-Contra,-1800,Special Revenue ,,Revenue,19777
+1025,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Donations,7500,Special Revenue ,,Revenue,19778
+1026,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,70000,Special Revenue ,,Revenue,19779
+1027,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-157500,Special Revenue ,,Revenue,19780
+1028,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Facility Rentals,8400,Special Revenue ,,Revenue,19781
+1029,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Leisure Field Fees Revenue,2016592,Special Revenue ,,Revenue,19782
+1030,2021,Culture and Recreation,,Parks and Recreation,Miscellaneous Revenue,Light Fee Revenue,455000,Special Revenue ,,Revenue,19783
+1031,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Program Registration,144400,Special Revenue ,,Revenue,19784
+1032,2021,Culture and Recreation,,Parks and Recreation,Charges for Service,Fee Waivers,-2496,Special Revenue ,,Revenue,19785
+1033,2021,Culture and Recreation,,Parks and Recreation,Taxes,Residential Park Construction Tax,1000000,Capital Projects,,Revenue,19922
